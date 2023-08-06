@@ -13,7 +13,14 @@
     "format:check": "npx prettier --check src",
     "test": "jest"
   },
-  "keywords": ["typescript", "node", "eslint", "prettier", "jest", "supertest"],
+  "keywords": [
+    "typescript",
+    "node",
+    "eslint",
+    "prettier",
+    "jest",
+    "supertest"
+  ],
   "author": "Elson Correia @ Before Semicolon",
   "license": "MIT",
   "devDependencies": {
@@ -36,4 +43,3 @@
   },
   "dependencies": {}
 }
-
